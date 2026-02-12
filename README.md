@@ -414,7 +414,8 @@ If you use this code in your research, please cite:
   author = {Gerald Enrique Nelson Mc Kenzie},
   title = {Autonomous CubeSat Docking with Deep Reinforcement Learning},
   year = {2026},
-  url = {https://github.com/your-repo/cubesat-docking-rl}
+  DOI = {10.5281/zenodo.18616484},
+  url = {https://github.com/lordxmen2k/cubesat-docking-rl}
 }
 ```
 
